@@ -8,4 +8,4 @@ The slope of the linear model is not considered to be zero because there is a si
 
 The linear model predicts mpg of MechaCar prototypes effectively as evidenced by a r-squared value of 0.71, indicating a strong correlation of the dataset.
 
-!linearregression(linearregression.png)
+![linearregression](linearregression.png)
